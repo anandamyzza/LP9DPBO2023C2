@@ -25,6 +25,7 @@ Terdapat 4 class di program ini, yaitu:
 
 ## Dokumentasi
 https://github.com/anandamyzza/LP9DPBO2023C2/assets/100767177/6cc7b2e1-4d84-43de-bb44-b0e40eb9efdb
+
 Screenshots ada pada folder yang sudah disediakan di repositori ini.
 
 #### Dokumentasi Mencoba DB
