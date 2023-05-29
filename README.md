@@ -28,7 +28,7 @@ https://github.com/anandamyzza/LP9DPBO2023C2/assets/100767177/6cc7b2e1-4d84-43de
 
 Screenshots ada pada folder yang sudah disediakan di repositori ini.
 
-#### Dokumentasi Mencoba DB
+### Dokumentasi Mencoba DB
 ![image](https://cdn.discordapp.com/attachments/771791679165431808/1111950602814107749/image.png)
 ![image](https://cdn.discordapp.com/attachments/771791679165431808/1111950648678809641/image.png)
 ![image](https://github.com/anandamyzza/LP9DPBO2023C2/assets/100767177/c71ad94b-43e8-4918-8c6a-f76656ecb39b)
